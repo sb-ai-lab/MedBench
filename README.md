@@ -1,6 +1,6 @@
 ![Python 3.7](https://img.shields.io/badge/python-3.7-green.svg)
 
-# RuMedBench
+# MedBench
 A **Ru**ssian **Med**ical language understanding **Bench**mark is the set of NLP tasks on medical textual data for the Russian language.
 
 This repository contains code and data to reproduce the results of the paper [*RuMedBench: A Russian Medical Language Understanding Benchmark*](https://arxiv.org/abs/2201.06499).
